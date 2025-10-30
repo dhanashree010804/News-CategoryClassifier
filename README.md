@@ -24,6 +24,7 @@ There is one label per article under one of the five broad categories:
 | **Politics** | Government, policies, and elections | 417 |
 | **Sport** | Matches, tournaments, and athletes | 511 |
 | **Tech** | Innovations, gadgets, and IT news | 401 |
+<img width="439" height="281" alt="image" src="https://github.com/user-attachments/assets/c86b1218-4532-482c-b722-323a75ac2aa8" />
 
 **Key Preprocessing Steps:**
 - Text cleaning (punctuation, stopwords removal)
@@ -123,6 +124,7 @@ To make sure the trained models generalize effectively, they were tested on the 
 | **Precision** | 0.9496 | 0.9694 | 0.9653 |
 | **Recall** | 0.9544 | 0.9238 | 0.9276 |
 | **F1-Score** | 0.9520 | 0.9461 | 0.9461 |
+<img width="516" height="320" alt="image" src="https://github.com/user-attachments/assets/eb22564f-ecb9-4116-84a6-38f39075049f" />
 
 > **Observation:** Logistic Regression achieved the best overall performance on the AG dataset, showing excellent adaptability and generalization from BBC to AG News data.
 
